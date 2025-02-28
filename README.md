@@ -3,7 +3,7 @@
 
 This repository represents the official implementation of the paper titled "[MASK] is All You Need".
 
-[![Website](doc/badges/badge-website.svg)](https://compvis.github.io/mask)
+[![Website](doc/badges/badge-website.svg)](https://compvis.github.io/discrete-interpolants)
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2412.06787)
 [![Hugging Face Model](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-green)](https://huggingface.co/collections/taohu/mask-is-all-you-need-6749a2ca0be7c4c5c055c122)
 [![GitHub](https://img.shields.io/github/stars/CompVis/mask?style=social)](https://github.com/CompVis/mask)
